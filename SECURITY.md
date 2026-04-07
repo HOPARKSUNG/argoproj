@@ -30,16 +30,14 @@ The [Argoproj Labs](https://github.com/argoproj-labs) projects are a set communi
 
 ## Reporting Vulnerabilities
 
-In general, we kindly ask you for responsible disclosure of any security
-vulnerabilities you may have found in one of our projects. Please do not create
-a GitHub issue, but instead contact us via e-mail at the following address:
+In general, we kindly ask you for responsible disclosure of any security vulnerabilities you may have found in one of our projects.
+Please do not create a GitHub issue, but instead open a draft GitHub security advisory: https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/fix-reported-vulnerabilities/creating-a-repository-security-advisory
 
-* cncf-argo-security@lists.cncf.io
+We no longer accept security disclosure by email.
 
 For reporting vulnerabilities to projects under Argoproj Labs, please visit the project's `SECURITY.md` policy to reach the correct contacts.
 
-We also kindly ask you to allow us some time for analysing the report and react
-on it. We will get in contact with you as soon as possible.
+We also kindly ask you to allow us some time for analysing the report and react on it. We will get in contact with you as soon as possible.
 
 ## Public Disclosure
 
